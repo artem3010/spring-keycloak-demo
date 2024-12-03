@@ -1,0 +1,5 @@
+keycloak:
+  auth-server-url: http://localhost:8080
+  realm: demo-realm
+  resource: spring-keycloak-demo
+  public-client: true
